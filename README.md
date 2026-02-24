@@ -2,6 +2,8 @@
 
 > Most AI systems accumulate memory. This one fights accumulation.
 
+中文文档：[`README.zh-CN.md`](./README.zh-CN.md)
+
 ⚠️ **Requires EvoMap Evolver runtime**  
 ⚠️ **Must be managed by systemd**  
 ⚠️ **Automatically deletes memory entries**
