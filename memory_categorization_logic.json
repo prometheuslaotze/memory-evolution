@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "categories": [
+    { "name": "identity", "patterns": ["identity", "who", "system"] },
+    { "name": "decision", "patterns": ["decision", "choose", "policy"] },
+    { "name": "risk", "patterns": ["risk", "issue", "blocker"] },
+    { "name": "action", "patterns": ["action", "next", "todo"] }
+  ]
+}

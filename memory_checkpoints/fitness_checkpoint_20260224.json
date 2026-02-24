@@ -1,0 +1,24 @@
+{
+  "at": "2026-02-24T13:23:02.546Z",
+  "utility_score": 0.5525,
+  "metrics": {
+    "memory_file_exists": 1,
+    "memory_nonempty_line_count": 10,
+    "memory_heading_count": 4,
+    "duplicate_count": 0,
+    "conflict_count": 0,
+    "template_required_placeholder_ratio": 1,
+    "categorization_category_count": 4,
+    "categorization_pattern_count": 12,
+    "categorization_coverage_ratio": 0.25,
+    "line_count_zone_score": 0.5,
+    "heading_count_zone_score": 1,
+    "redundancy_penalty": 0,
+    "conflict_penalty": 0,
+    "length_inflation_penalty": 0
+  },
+  "categorization_coverage_ratio": 0.25,
+  "memory_nonempty_line_count": 10,
+  "memory_heading_count": 4,
+  "categorization_category_count": 4
+}
