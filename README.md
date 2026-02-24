@@ -1,5 +1,7 @@
 # 🧠 Memory Evolution (Beta)
 
+![Memory Evolution Landing Illustration](./assets/landing-illustration.jpg)
+
 **Language / 语言**: [English](#english) | [中文](#中文)
 
 ---
